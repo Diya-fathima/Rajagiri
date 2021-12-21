@@ -1,5 +1,5 @@
-# Rajagiri
-just a trial rep
+
+
 **This project is a simple calculator written in Python.**
 Calculator ships regularly with new features and bug fixes.
 Standard Calculator functionality which offers basic operations and evaluates commands immediately as they are entered.
